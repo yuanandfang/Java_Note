@@ -29,5 +29,5 @@
     * 4、可以被类名所调用
 
 ## 方法区即共享区、数据区
-！[JAVA图标](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=java&step_word=&hs=0&pn=0&spn=0&di=51984171910&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=398091534%2C1457324915&os=3131123960%2C4234664398&simid=0%2C0&adpicid=0&lpn=0&ln=1879&fr=&fmq=1541934072324_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fimages2015.cnblogs.com%2Fblog%2F647396%2F201706%2F647396-20170608200459653-1340429555.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bvgks52f_z%26e3Bv54AzdH3Fpftg2hjAzdH3FrAzdH3Fmlm9cbn_z%26e3Bip4s&gsm=0&rpstart=0&rpnum=0&islist=&querylist=)
+！[萝卜](D:\用户目录\我的图片\1.jpg)
 
