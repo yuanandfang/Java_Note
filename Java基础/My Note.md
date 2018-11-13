@@ -1,6 +1,6 @@
 # My Note
 
-##布尔类型的数组有以下几种写法：
+## 布尔类型的数组有以下几种写法：
     * boolean [] aa = new boolean[3];
     * 或者
     * boolean aa [] = new boolean[3];
