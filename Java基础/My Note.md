@@ -19,12 +19,19 @@
 
 ## DOS命令界面命令：
   C:\md xxx  创建文件夹
+  
   C:\rd xxx  删除文件夹 必须保证该文件夹内为空
+  
   C:\cd abc 进入目录
+  
   C:\abc\dir 打开目录
+  
   C:\abc\cd.. 返回上一层目录
+  
   C:\abc\op\cd\ 直接返回到根目录
+  
   del 删除文件，将会出现\*.是否确认<Y/N>?
+  
   exit 推出DOS命令行
 
 
